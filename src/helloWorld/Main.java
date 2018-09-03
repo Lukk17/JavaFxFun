@@ -577,7 +577,7 @@ public class Main extends Application
         scene2 = new Scene(layout2, 800, 650);
         scene3 = new Scene(borderPane, 900, 550);
         
-//        add stylesheet to scene
+//        add style sheet to scene
         scene3.getStylesheets().add("lukk.css");
         
         webBrowserScene = new Scene(webBrowserLayout, 900, 600);
